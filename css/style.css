@@ -1,0 +1,60 @@
+body {
+    background-color: #F6F5EF;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+
+h1 {
+    font-size: 3.5rem;
+}
+
+h2 {
+    color: #1E2D6F;
+}
+
+img.drupallogo {
+    width: 15%;
+    min-width: 16em;
+    margin: auto;
+}
+
+img.drupalpt {
+    filter: invert(1);
+}
+
+img.drupalcamp-attendees {
+    width: 70%;
+    margin: auto;
+}
+
+img.aed {
+    margin: auto;
+}
+
+.small {
+    font-size: 1rem;
+}
+
+.button-area {
+    text-align: center;
+    width: 80%;
+    margin-bottom: 2em;
+    margin-top: 2em;
+}
+
+.button-announcement {
+    margin-bottom: 1em;
+}
+
+
+.button {
+    float: right;
+    background: #000;
+    color: #fff;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+}
